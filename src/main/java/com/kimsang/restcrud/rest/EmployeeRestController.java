@@ -1,6 +1,5 @@
 package com.kimsang.restcrud.rest;
 
-import com.kimsang.restcrud.dao.EmployeeDAO;
 import com.kimsang.restcrud.entity.Employee;
 import com.kimsang.restcrud.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
